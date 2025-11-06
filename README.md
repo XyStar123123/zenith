@@ -4,8 +4,9 @@ Necessary Packages:
     - lucide-react
     - react-router-dom
     - tailwindcss v4
+    - html-to-image
 
-npm install lucide-react react-router-dom tailwindcss @tailwindcss/vite
+npm install lucide-react react-router-dom tailwindcss @tailwindcss/vite html-to-image
 
 - Backend:
     - nodemon
